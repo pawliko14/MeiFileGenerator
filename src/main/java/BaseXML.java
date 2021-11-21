@@ -1,12 +1,14 @@
+import RandomizingParameters.Parameters;
+
 public class BaseXML {
 
-    private static String scoreDef = "                    <scoreDef meter.count=\"4\" meter.unit=\"4\" system.leftline=\"false\">\n" +
+    private static String scoreDef = "                    <scoreDef meter.count=\""+ Parameters.TEMPO +"\" meter.unit=\"4\" system.leftline=\"false\">\n" +
             "                        <staffGrp>\n" +
             "                            <staffDef n=\"1\" clef.line=\"2\" clef.shape=\"G\" lines=\"5\"/>\n" +
             "                        </staffGrp>\n" +
             "                    </scoreDef>";
 
-    public static String baseXMLFirstPart = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
+    public final static String baseXMLFirstPart = "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n" +
             "<?xml-model href=\"https://music-encoding.org/schema/4.0.0/mei-all.rng\" type=\"application/xml\" schematypens=\"http://relaxng.org/ns/structure/1.0\"?>\n" +
             "<?xml-model href=\"https://music-encoding.org/schema/4.0.0/mei-all.rng\" type=\"application/xml\" schematypens=\"http://purl.oclc.org/dsdl/schematron\"?>\n" +
             "<mei xmlns=\"http://www.music-encoding.org/ns/mei\" meiversion=\"4.0.0\">\n" +

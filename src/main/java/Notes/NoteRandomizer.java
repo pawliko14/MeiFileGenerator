@@ -12,14 +12,14 @@ import java.util.Random;
 @NoArgsConstructor
 public class NoteRandomizer {
 
-    private final int MAX_RANDOM = 10;
-    private final int MIN_RANDOM = 10;
-    private final int MAX_RANDOM_ID = 1000;
+    private final static int MAX_RANDOM = 10;
+    private final static int MIN_RANDOM = 10;
+    private final static int MAX_RANDOM_ID = 1000;
+    Random rand = new Random();
     private Note note;
 
     public Note getRandomizedNote() {
 
-        Random rand = new Random();
         int randomNum = rand.nextInt((MAX_RANDOM - MIN_RANDOM) + MIN_RANDOM) + 1;
 
 

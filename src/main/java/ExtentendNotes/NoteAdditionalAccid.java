@@ -15,6 +15,7 @@ public class NoteAdditionalAccid extends Note {
         this.accid = accid;
     }
 
+    @Override
     public String generateNoteStringFromNote(){
         return "<note xml:id=\"" + this.getId() +
                 "\" dur=\"" + this.getDur() +
