@@ -16,7 +16,7 @@ public class BeamsRandomizer {
 
 
     public StringBuilder getRandomizedString() {
-        NotePackageGenerator notePackageGenerator = new NotePackageGenerator(Parameters.TEMPO);
+        NotePackageGenerator notePackageGenerator = new NotePackageGenerator(Parameters.METRUM);
 
         StringBuilder sb = new StringBuilder();
         for (int i = 0; i < Parameters.MAX_MEASURES; i++) {

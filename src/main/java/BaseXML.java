@@ -2,7 +2,7 @@ import RandomizingParameters.Parameters;
 
 public class BaseXML {
 
-    private static String scoreDef = "                    <scoreDef meter.count=\""+ Parameters.TEMPO +"\" meter.unit=\"4\" system.leftline=\"false\">\n" +
+    private static String scoreDef = "                    <scoreDef meter.count=\""+ Parameters.METRUM +"\" meter.unit=\"4\" system.leftline=\"false\">\n" +
             "                        <staffGrp>\n" +
             "                            <staffDef n=\"1\" clef.line=\"2\" clef.shape=\"G\" lines=\"5\"/>\n" +
             "                        </staffGrp>\n" +

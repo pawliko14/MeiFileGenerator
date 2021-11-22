@@ -1,0 +1,2510 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://music-encoding.org/schema/4.0.0/mei-all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="4.0.0">
+    <meiHead>
+        <fileDesc>
+            <titleStmt>
+                <respStmt/>
+            </titleStmt>
+            <pubStmt><availability>
+            </availability>
+                <date isodate="2021-06-04" type="encoding-date">2021-06-04</date>
+            </pubStmt>
+        </fileDesc>
+    </meiHead>
+    <music>
+        <body>
+            <mdiv xml:id="mubx173">
+                <score xml:id="seo3m9l">
+                    <scoreDef meter.count="3" meter.unit="4" system.leftline="false">
+                        <staffGrp>
+                            <staffDef clef.line="2" clef.shape="G" lines="5" n="1"/>
+                        </staffGrp>
+                    </scoreDef>
+                    <section xml:id="svuye9t">
+                       <measure n="01" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="d" stem.dir="up" xml:id="622"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="475"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="651"/>
+<note dur="16" oct="5" pname="g" stem.dir="up" xml:id="883"/>
+<note dur="4" oct="5" pname="g" stem.dir="up" xml:id="766"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="11" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="d" stem.dir="up" xml:id="746"/>
+<note dur="2" oct="5" pname="g" stem.dir="up" xml:id="594"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="906"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="21" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="g" stem.dir="up" xml:id="649"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="282"/>
+<note dur="4" oct="5" pname="g" stem.dir="up" xml:id="700"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="85"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="31" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="a" stem.dir="up" xml:id="669"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="467"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="398"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="897"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="41" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="2" oct="5" pname="a" stem.dir="up" xml:id="640"/>
+<note dur="8" oct="4" pname="a" stem.dir="up" xml:id="841"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="516"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="51" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="e" stem.dir="up" xml:id="937"/>
+<note dur="2" oct="4" pname="d" stem.dir="up" xml:id="472"/>
+<note accid="n" dur="16" oct="5" pname="a" stem.dir="up" xml:id="497"/>
+<note accid="s" dur="16" oct="5" pname="g" stem.dir="up" xml:id="176"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="61" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="d" stem.dir="up" xml:id="371"/>
+<note accid="n" dur="8" oct="3" pname="c" stem.dir="up" xml:id="886"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="927"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="71" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="d" stem.dir="up" xml:id="311"/>
+<note dur="4" oct="5" pname="f" stem.dir="up" xml:id="353"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="535"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="637"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="226"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="81" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="a" stem.dir="up" xml:id="683"/>
+<note dur="4" oct="3" pname="c" stem.dir="up" xml:id="854"/>
+<note dur="4" oct="5" pname="g" stem.dir="up" xml:id="859"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="869"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="91" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="a" stem.dir="up" xml:id="104"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="737"/>
+<note dur="2" oct="5" pname="a" stem.dir="up" xml:id="867"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="441"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="101" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="g" stem.dir="up" xml:id="381"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="366"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="468"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="24"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="88"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="35"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="588"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="111" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="e" stem.dir="up" xml:id="458"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="729"/>
+<note dur="4" oct="5" pname="f" stem.dir="up" xml:id="207"/>
+<note dur="16" oct="5" pname="g" stem.dir="up" xml:id="862"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="812"/>
+<note dur="16" oct="5" pname="g" stem.dir="up" xml:id="71"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="121" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="g" stem.dir="up" xml:id="951"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="496"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="690"/>
+<note accid="f" dur="4" oct="5" pname="f" stem.dir="up" xml:id="524"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="895"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="582"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="131" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="e" stem.dir="up" xml:id="265"/>
+<note accid="s" dur="8" oct="4" pname="c" stem.dir="up" xml:id="996"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="46"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="1"/>
+<note dur="8" oct="5" pname="g" stem.dir="up" xml:id="497"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="254"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="629"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="141" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="a" stem.dir="up" xml:id="301"/>
+<note accid="n" dur="4" oct="3" pname="f" stem.dir="up" xml:id="834"/>
+<note dur="8" oct="5" pname="d" stem.dir="up" xml:id="409"/>
+<note accid="f" dur="16" oct="4" pname="e" stem.dir="up" xml:id="482"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="195"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="344"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="151" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="d" stem.dir="up" xml:id="885"/>
+<note dur="4" oct="5" pname="e" stem.dir="up" xml:id="179"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="161" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="a" stem.dir="up" xml:id="886"/>
+<note dur="8" oct="4" pname="g" stem.dir="up" xml:id="216"/>
+<note dur="2" oct="4" pname="f" stem.dir="up" xml:id="532"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="99"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="171" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="g" stem.dir="up" xml:id="323"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="25"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="735"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="227"/>
+<note dur="16" oct="3" pname="e" stem.dir="up" xml:id="375"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="35"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="278"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="791"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="181" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="g" stem.dir="up" xml:id="665"/>
+<note accid="n" dur="4" oct="3" pname="g" stem.dir="up" xml:id="284"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="191" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="a" stem.dir="up" xml:id="347"/>
+<note dur="2" oct="4" pname="d" stem.dir="up" xml:id="552"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="277"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="201" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="a" stem.dir="up" xml:id="575"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="797"/>
+<note accid="n" dur="8" oct="5" pname="g" stem.dir="up" xml:id="143"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="211" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="d" stem.dir="up" xml:id="545"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="71"/>
+<note accid="f" dur="2" oct="3" pname="d" stem.dir="up" xml:id="517"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="52"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="221" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="e" stem.dir="up" xml:id="154"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="468"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="615"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="242"/>
+<note dur="4" oct="3" pname="e" stem.dir="up" xml:id="444"/>
+<note accid="n" dur="8" oct="4" pname="f" stem.dir="up" xml:id="78"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="231" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="a" stem.dir="up" xml:id="63"/>
+<note dur="8" oct="5" pname="d" stem.dir="up" xml:id="278"/>
+<note dur="8" oct="5" pname="a" stem.dir="up" xml:id="299"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="241" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="g" stem.dir="up" xml:id="798"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="409"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="472"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="501"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="251" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="c" stem.dir="up" xml:id="434"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="41"/>
+<note dur="8" oct="4" pname="g" stem.dir="up" xml:id="56"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="51"/>
+<note dur="4" oct="4" pname="e" stem.dir="up" xml:id="210"/>
+<note accid="f" dur="16" oct="5" pname="d" stem.dir="up" xml:id="861"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="261" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="f" stem.dir="up" xml:id="63"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="468"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="55"/>
+<note dur="8" oct="5" pname="g" stem.dir="up" xml:id="8"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="271" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="g" stem.dir="up" xml:id="140"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="519"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="281" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="c" stem.dir="up" xml:id="42"/>
+<note dur="2" oct="5" pname="c" stem.dir="up" xml:id="393"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="291" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="c" stem.dir="up" xml:id="272"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="675"/>
+<note dur="2" oct="5" pname="f" stem.dir="up" xml:id="386"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="850"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="301" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="g" stem.dir="up" xml:id="554"/>
+<note dur="2" oct="5" pname="c" stem.dir="up" xml:id="761"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="311" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="s" dur="8" oct="4" pname="c" stem.dir="up" xml:id="159"/>
+<note dur="2" oct="3" pname="a" stem.dir="up" xml:id="779"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="331"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="321" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="d" stem.dir="up" xml:id="298"/>
+<note dur="2" oct="3" pname="a" stem.dir="up" xml:id="438"/>
+<note dur="8" oct="5" pname="a" stem.dir="up" xml:id="406"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="934"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="331" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="f" dur="16" oct="3" pname="c" stem.dir="up" xml:id="542"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="130"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="425"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="218"/>
+<note accid="f" dur="4" oct="5" pname="g" stem.dir="up" xml:id="337"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="366"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="346"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="173"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="341" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="a" stem.dir="up" xml:id="39"/>
+<note accid="s" dur="16" oct="3" pname="g" stem.dir="up" xml:id="813"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="156"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="449"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="351" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="a" stem.dir="up" xml:id="12"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="773"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="183"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="806"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="361" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="e" stem.dir="up" xml:id="822"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="444"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="419"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="943"/>
+<note accid="s" dur="16" oct="5" pname="d" stem.dir="up" xml:id="269"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="342"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="275"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="371" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="c" stem.dir="up" xml:id="349"/>
+<note dur="2" oct="5" pname="f" stem.dir="up" xml:id="781"/>
+<note dur="8" oct="5" pname="d" stem.dir="up" xml:id="846"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="381" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="c" stem.dir="up" xml:id="272"/>
+<note dur="8" oct="5" pname="g" stem.dir="up" xml:id="420"/>
+<note accid="f" dur="4" oct="4" pname="c" stem.dir="up" xml:id="541"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="382"/>
+<note dur="16" oct="3" pname="e" stem.dir="up" xml:id="70"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="391" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="c" stem.dir="up" xml:id="560"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="567"/>
+<note dur="16" oct="5" pname="g" stem.dir="up" xml:id="970"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="839"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="799"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="401" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="c" stem.dir="up" xml:id="64"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="911"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="500"/>
+<note dur="4" oct="4" pname="d" stem.dir="up" xml:id="95"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="292"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="411" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="c" stem.dir="up" xml:id="894"/>
+<note accid="n" dur="16" oct="5" pname="g" stem.dir="up" xml:id="619"/>
+<note dur="8" oct="4" pname="g" stem.dir="up" xml:id="233"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="840"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="421" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="f" stem.dir="up" xml:id="876"/>
+<note dur="4" oct="5" pname="f" stem.dir="up" xml:id="471"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="431" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="e" stem.dir="up" xml:id="909"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="205"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="794"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="466"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="441" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="f" stem.dir="up" xml:id="442"/>
+<note dur="2" oct="3" pname="g" stem.dir="up" xml:id="233"/>
+<note accid="f" dur="8" oct="5" pname="a" stem.dir="up" xml:id="493"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="451" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="a" stem.dir="up" xml:id="396"/>
+<note dur="2" oct="5" pname="c" stem.dir="up" xml:id="875"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="461" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="16" oct="4" pname="f" stem.dir="up" xml:id="444"/>
+<note dur="2" oct="5" pname="g" stem.dir="up" xml:id="714"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="13"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="860"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="471" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="c" stem.dir="up" xml:id="89"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="683"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="804"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="365"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="265"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="517"/>
+<note dur="4" oct="4" pname="g" stem.dir="up" xml:id="289"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="481" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="c" stem.dir="up" xml:id="967"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="266"/>
+<note dur="2" oct="4" pname="d" stem.dir="up" xml:id="705"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="491" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="a" stem.dir="up" xml:id="900"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="737"/>
+<note dur="4" oct="3" pname="d" stem.dir="up" xml:id="898"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="516"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="116"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="209"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="501" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="d" stem.dir="up" xml:id="309"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="696"/>
+<note accid="n" dur="16" oct="3" pname="c" stem.dir="up" xml:id="69"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="486"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="135"/>
+<note accid="n" dur="16" oct="5" pname="c" stem.dir="up" xml:id="331"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="272"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="467"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="511" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="4" oct="4" pname="a" stem.dir="up" xml:id="815"/>
+<note dur="2" oct="3" pname="e" stem.dir="up" xml:id="323"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="521" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="g" stem.dir="up" xml:id="26"/>
+<note dur="2" oct="3" pname="d" stem.dir="up" xml:id="400"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="234"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="40"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="531" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="c" stem.dir="up" xml:id="334"/>
+<note accid="n" dur="2" oct="5" pname="d" stem.dir="up" xml:id="585"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="957"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="910"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="541" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="c" stem.dir="up" xml:id="652"/>
+<note dur="2" oct="5" pname="a" stem.dir="up" xml:id="486"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="551" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="s" dur="8" oct="3" pname="a" stem.dir="up" xml:id="73"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="601"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="702"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="492"/>
+<note dur="8" oct="4" pname="e" stem.dir="up" xml:id="461"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="911"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="982"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="561" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="d" stem.dir="up" xml:id="169"/>
+<note dur="2" oct="4" pname="c" stem.dir="up" xml:id="786"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="503"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="432"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="571" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="c" stem.dir="up" xml:id="796"/>
+<note dur="4" oct="3" pname="c" stem.dir="up" xml:id="97"/>
+<note dur="4" oct="4" pname="c" stem.dir="up" xml:id="579"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="817"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="581" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="c" stem.dir="up" xml:id="709"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="668"/>
+<note dur="2" oct="3" pname="g" stem.dir="up" xml:id="27"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="255"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="849"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="591" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="s" dur="4" oct="4" pname="g" stem.dir="up" xml:id="115"/>
+<note dur="8" oct="3" pname="e" stem.dir="up" xml:id="109"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="516"/>
+<note dur="16" oct="3" pname="e" stem.dir="up" xml:id="860"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="783"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="601" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="d" stem.dir="up" xml:id="949"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="48"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="813"/>
+<note dur="4" oct="5" pname="a" stem.dir="up" xml:id="323"/>
+<note dur="8" oct="5" pname="g" stem.dir="up" xml:id="478"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="925"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="151"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="195"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="611" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="g" stem.dir="up" xml:id="443"/>
+<note dur="4" oct="5" pname="e" stem.dir="up" xml:id="862"/>
+<note accid="n" dur="4" oct="5" pname="c" stem.dir="up" xml:id="636"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="887"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="176"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="633"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="621" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="c" stem.dir="up" xml:id="537"/>
+<note accid="s" dur="2" oct="5" pname="e" stem.dir="up" xml:id="591"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="600"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="823"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="631" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="s" dur="4" oct="5" pname="e" stem.dir="up" xml:id="871"/>
+<note dur="4" oct="4" pname="d" stem.dir="up" xml:id="757"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="650"/>
+<note dur="8" oct="4" pname="g" stem.dir="up" xml:id="728"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="641" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="a" stem.dir="up" xml:id="582"/>
+<note dur="2" oct="4" pname="g" stem.dir="up" xml:id="477"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="651" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="f" dur="8" oct="3" pname="e" stem.dir="up" xml:id="86"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="213"/>
+<note accid="n" dur="16" oct="4" pname="d" stem.dir="up" xml:id="868"/>
+<note dur="2" oct="4" pname="e" stem.dir="up" xml:id="145"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="661" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="16" oct="4" pname="d" stem.dir="up" xml:id="929"/>
+<note dur="2" oct="4" pname="a" stem.dir="up" xml:id="751"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="831"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="203"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="671" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="a" stem.dir="up" xml:id="365"/>
+<note dur="2" oct="5" pname="g" stem.dir="up" xml:id="654"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="879"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="681" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="c" stem.dir="up" xml:id="381"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="816"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="138"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="104"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="35"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="691" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="d" stem.dir="up" xml:id="869"/>
+<note dur="4" oct="3" pname="g" stem.dir="up" xml:id="738"/>
+<note dur="8" oct="4" pname="a" stem.dir="up" xml:id="432"/>
+<note accid="f" dur="8" oct="5" pname="c" stem.dir="up" xml:id="754"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="701" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="e" stem.dir="up" xml:id="767"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="700"/>
+<note dur="8" oct="5" pname="d" stem.dir="up" xml:id="768"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="711" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="a" stem.dir="up" xml:id="542"/>
+<note dur="4" oct="5" pname="e" stem.dir="up" xml:id="685"/>
+<note dur="4" oct="4" pname="d" stem.dir="up" xml:id="246"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="766"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="19"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="721" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="g" stem.dir="up" xml:id="72"/>
+<note dur="4" oct="4" pname="e" stem.dir="up" xml:id="303"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="731" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="c" stem.dir="up" xml:id="895"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="468"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="663"/>
+<note dur="4" oct="3" pname="e" stem.dir="up" xml:id="277"/>
+<note dur="4" oct="4" pname="d" stem.dir="up" xml:id="132"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="741" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="f" stem.dir="up" xml:id="868"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="754"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="276"/>
+<note dur="4" oct="4" pname="f" stem.dir="up" xml:id="898"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="33"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="751" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="e" stem.dir="up" xml:id="653"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="475"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="521"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="17"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="719"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="761" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="f" stem.dir="up" xml:id="612"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="830"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="695"/>
+<note dur="4" oct="3" pname="d" stem.dir="up" xml:id="375"/>
+<note accid="n" dur="8" oct="4" pname="f" stem.dir="up" xml:id="752"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="353"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="771" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="a" stem.dir="up" xml:id="340"/>
+<note dur="2" oct="4" pname="g" stem.dir="up" xml:id="517"/>
+<note dur="8" oct="5" pname="g" stem.dir="up" xml:id="174"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="781" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="g" stem.dir="up" xml:id="222"/>
+<note accid="f" dur="8" oct="3" pname="g" stem.dir="up" xml:id="63"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="428"/>
+<note accid="f" dur="8" oct="4" pname="c" stem.dir="up" xml:id="921"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="939"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="412"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="460"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="791" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="d" stem.dir="up" xml:id="884"/>
+<note dur="2" oct="4" pname="a" stem.dir="up" xml:id="487"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="370"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="676"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="801" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="a" stem.dir="up" xml:id="575"/>
+<note dur="4" oct="5" pname="f" stem.dir="up" xml:id="83"/>
+<note dur="4" oct="4" pname="e" stem.dir="up" xml:id="22"/>
+<note dur="16" oct="3" pname="e" stem.dir="up" xml:id="620"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="130"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="811" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="g" stem.dir="up" xml:id="657"/>
+<note dur="4" oct="3" pname="c" stem.dir="up" xml:id="149"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="308"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="279"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="834"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="420"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="821" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="e" stem.dir="up" xml:id="866"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="770"/>
+<note dur="4" oct="3" pname="e" stem.dir="up" xml:id="335"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="103"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="595"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="831" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="e" stem.dir="up" xml:id="909"/>
+<note dur="8" oct="4" pname="e" stem.dir="up" xml:id="49"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="816"/>
+<note dur="4" oct="5" pname="d" stem.dir="up" xml:id="87"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="414"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="841" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="d" stem.dir="up" xml:id="13"/>
+<note dur="4" oct="4" pname="c" stem.dir="up" xml:id="962"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="851" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="e" stem.dir="up" xml:id="370"/>
+<note dur="4" oct="3" pname="c" stem.dir="up" xml:id="766"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="861" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="f" stem.dir="up" xml:id="567"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="533"/>
+<note dur="8" oct="4" pname="e" stem.dir="up" xml:id="551"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="716"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="365"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="667"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="184"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="115"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="871" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="d" stem.dir="up" xml:id="87"/>
+<note dur="4" oct="3" pname="a" stem.dir="up" xml:id="13"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="881" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="c" stem.dir="up" xml:id="393"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="302"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="372"/>
+<note accid="n" dur="16" oct="3" pname="a" stem.dir="up" xml:id="90"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="297"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="891" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="a" stem.dir="up" xml:id="345"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="500"/>
+<note dur="4" oct="4" pname="a" stem.dir="up" xml:id="54"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="876"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="901" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="c" stem.dir="up" xml:id="46"/>
+<note dur="4" oct="4" pname="c" stem.dir="up" xml:id="92"/>
+<note dur="16" oct="3" pname="e" stem.dir="up" xml:id="195"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="108"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="384"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="911" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="8" oct="3" pname="c" stem.dir="up" xml:id="844"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="529"/>
+<note dur="2" oct="5" pname="c" stem.dir="up" xml:id="146"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="472"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="921" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="f" dur="8" oct="5" pname="c" stem.dir="up" xml:id="267"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="230"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="271"/>
+<note dur="4" oct="5" pname="f" stem.dir="up" xml:id="857"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="599"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="550"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="931" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="a" stem.dir="up" xml:id="775"/>
+<note dur="8" oct="5" pname="d" stem.dir="up" xml:id="602"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="993"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="941" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="d" stem.dir="up" xml:id="256"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="238"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="797"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="30"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="951" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="e" stem.dir="up" xml:id="376"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="182"/>
+<note accid="n" dur="8" oct="5" pname="f" stem.dir="up" xml:id="320"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="961" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="c" stem.dir="up" xml:id="528"/>
+<note dur="4" oct="3" pname="a" stem.dir="up" xml:id="777"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="307"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="374"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="617"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="971" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="d" stem.dir="up" xml:id="275"/>
+<note dur="2" oct="5" pname="e" stem.dir="up" xml:id="665"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="981" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="c" stem.dir="up" xml:id="976"/>
+<note accid="s" dur="2" oct="3" pname="g" stem.dir="up" xml:id="595"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="991" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="f" dur="8" oct="4" pname="d" stem.dir="up" xml:id="263"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="980"/>
+<note dur="2" oct="5" pname="g" stem.dir="up" xml:id="416"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="817"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1001" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="d" stem.dir="up" xml:id="507"/>
+<note dur="2" oct="4" pname="c" stem.dir="up" xml:id="655"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1011" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="d" stem.dir="up" xml:id="625"/>
+<note dur="2" oct="5" pname="c" stem.dir="up" xml:id="160"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="593"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="938"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1021" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="c" stem.dir="up" xml:id="904"/>
+<note dur="4" oct="4" pname="a" stem.dir="up" xml:id="838"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="779"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="60"/>
+<note dur="8" oct="3" pname="e" stem.dir="up" xml:id="329"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1031" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="c" stem.dir="up" xml:id="336"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="676"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="199"/>
+<note dur="4" oct="3" pname="c" stem.dir="up" xml:id="568"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="705"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="100"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1041" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="a" stem.dir="up" xml:id="403"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="731"/>
+<note dur="4" oct="3" pname="c" stem.dir="up" xml:id="478"/>
+<note dur="4" oct="3" pname="g" stem.dir="up" xml:id="709"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="312"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1051" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="c" stem.dir="up" xml:id="834"/>
+<note dur="2" oct="5" pname="f" stem.dir="up" xml:id="978"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="947"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="155"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1061" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="8" oct="3" pname="a" stem.dir="up" xml:id="228"/>
+<note dur="8" oct="4" pname="e" stem.dir="up" xml:id="374"/>
+<note accid="n" dur="2" oct="4" pname="c" stem.dir="up" xml:id="987"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1071" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="g" stem.dir="up" xml:id="323"/>
+<note dur="4" oct="5" pname="f" stem.dir="up" xml:id="152"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1081" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="c" stem.dir="up" xml:id="972"/>
+<note dur="4" oct="5" pname="f" stem.dir="up" xml:id="804"/>
+<note dur="4" oct="4" pname="f" stem.dir="up" xml:id="877"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="645"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="973"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1091" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="16" oct="4" pname="f" stem.dir="up" xml:id="375"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="257"/>
+<note accid="s" dur="8" oct="4" pname="c" stem.dir="up" xml:id="746"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="304"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="826"/>
+<note accid="f" dur="4" oct="4" pname="c" stem.dir="up" xml:id="104"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="87"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1101" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="a" stem.dir="up" xml:id="56"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="409"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="661"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1111" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="e" stem.dir="up" xml:id="360"/>
+<note dur="4" oct="4" pname="a" stem.dir="up" xml:id="610"/>
+<note dur="8" oct="3" pname="e" stem.dir="up" xml:id="757"/>
+<note dur="8" oct="3" pname="e" stem.dir="up" xml:id="354"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1121" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="s" dur="16" oct="5" pname="c" stem.dir="up" xml:id="2"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="570"/>
+<note dur="4" oct="5" pname="a" stem.dir="up" xml:id="423"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="311"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="282"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1131" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="f" dur="4" oct="4" pname="c" stem.dir="up" xml:id="603"/>
+<note dur="8" oct="4" pname="e" stem.dir="up" xml:id="44"/>
+<note accid="s" dur="4" oct="5" pname="a" stem.dir="up" xml:id="610"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="73"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1141" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="f" stem.dir="up" xml:id="689"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="123"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="552"/>
+<note dur="4" oct="5" pname="f" stem.dir="up" xml:id="367"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="4"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="218"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1151" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="a" stem.dir="up" xml:id="834"/>
+<note dur="4" oct="5" pname="f" stem.dir="up" xml:id="133"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1161" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="d" stem.dir="up" xml:id="685"/>
+<note dur="4" oct="3" pname="e" stem.dir="up" xml:id="307"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="429"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="340"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="608"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1171" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="c" stem.dir="up" xml:id="98"/>
+<note dur="4" oct="5" pname="a" stem.dir="up" xml:id="510"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1181" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="a" stem.dir="up" xml:id="3"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="517"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="187"/>
+<note dur="4" oct="3" pname="c" stem.dir="up" xml:id="318"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="384"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="609"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1191" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="e" stem.dir="up" xml:id="893"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="958"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="777"/>
+<note dur="4" oct="4" pname="d" stem.dir="up" xml:id="408"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1201" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="c" stem.dir="up" xml:id="567"/>
+<note dur="2" oct="4" pname="f" stem.dir="up" xml:id="867"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1211" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="c" stem.dir="up" xml:id="383"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="214"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="533"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="610"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1221" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="e" stem.dir="up" xml:id="166"/>
+<note dur="2" oct="3" pname="c" stem.dir="up" xml:id="619"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1231" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="c" stem.dir="up" xml:id="507"/>
+<note dur="2" oct="5" pname="e" stem.dir="up" xml:id="417"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1241" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="f" stem.dir="up" xml:id="549"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="371"/>
+<note dur="4" oct="5" pname="g" stem.dir="up" xml:id="19"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="889"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1251" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="c" stem.dir="up" xml:id="356"/>
+<note dur="4" oct="3" pname="c" stem.dir="up" xml:id="889"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="704"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="38"/>
+<note dur="8" oct="4" pname="e" stem.dir="up" xml:id="500"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="367"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1261" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="c" stem.dir="up" xml:id="689"/>
+<note dur="8" oct="4" pname="e" stem.dir="up" xml:id="565"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="735"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="333"/>
+<note dur="4" oct="5" pname="a" stem.dir="up" xml:id="993"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="238"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="229"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1271" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="f" stem.dir="up" xml:id="125"/>
+<note dur="2" oct="4" pname="c" stem.dir="up" xml:id="525"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1281" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="g" stem.dir="up" xml:id="874"/>
+<note dur="2" oct="3" pname="f" stem.dir="up" xml:id="492"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1291" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="a" stem.dir="up" xml:id="489"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="31"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="854"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1301" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="e" stem.dir="up" xml:id="336"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="872"/>
+<note dur="2" oct="3" pname="f" stem.dir="up" xml:id="950"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="258"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1311" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="d" stem.dir="up" xml:id="952"/>
+<note dur="2" oct="4" pname="a" stem.dir="up" xml:id="348"/>
+<note accid="s" dur="8" oct="5" pname="e" stem.dir="up" xml:id="997"/>
+<note accid="f" dur="16" oct="5" pname="f" stem.dir="up" xml:id="695"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1321" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="c" stem.dir="up" xml:id="178"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="550"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="499"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1331" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="d" stem.dir="up" xml:id="477"/>
+<note dur="8" oct="4" pname="g" stem.dir="up" xml:id="679"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="292"/>
+<note accid="f" dur="16" oct="3" pname="c" stem.dir="up" xml:id="158"/>
+<note accid="n" dur="4" oct="5" pname="e" stem.dir="up" xml:id="412"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="439"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="309"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1341" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="g" stem.dir="up" xml:id="458"/>
+<note dur="2" oct="3" pname="c" stem.dir="up" xml:id="882"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="108"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="644"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1351" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="c" stem.dir="up" xml:id="940"/>
+<note dur="8" oct="3" pname="e" stem.dir="up" xml:id="920"/>
+<note dur="8" oct="4" pname="e" stem.dir="up" xml:id="625"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="832"/>
+<note accid="s" dur="16" oct="5" pname="a" stem.dir="up" xml:id="6"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="204"/>
+<note accid="n" dur="8" oct="5" pname="f" stem.dir="up" xml:id="319"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1361" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="c" stem.dir="up" xml:id="171"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="191"/>
+<note dur="16" oct="5" pname="g" stem.dir="up" xml:id="807"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="833"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1371" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="e" stem.dir="up" xml:id="32"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="932"/>
+<note accid="n" dur="16" oct="3" pname="g" stem.dir="up" xml:id="790"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="462"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="970"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="974"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="553"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1381" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="f" stem.dir="up" xml:id="136"/>
+<note dur="4" oct="4" pname="a" stem.dir="up" xml:id="180"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="339"/>
+<note dur="16" oct="5" pname="g" stem.dir="up" xml:id="703"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="563"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1391" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="g" stem.dir="up" xml:id="811"/>
+<note accid="f" dur="4" oct="3" pname="f" stem.dir="up" xml:id="464"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="798"/>
+<note dur="8" oct="5" pname="d" stem.dir="up" xml:id="594"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="888"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="847"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="965"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1401" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="e" stem.dir="up" xml:id="360"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="785"/>
+<note dur="8" oct="4" pname="e" stem.dir="up" xml:id="948"/>
+<note dur="4" oct="4" pname="e" stem.dir="up" xml:id="844"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="514"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1411" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="c" stem.dir="up" xml:id="296"/>
+<note dur="16" oct="5" pname="g" stem.dir="up" xml:id="178"/>
+<note dur="4" oct="5" pname="e" stem.dir="up" xml:id="114"/>
+<note dur="8" oct="5" pname="d" stem.dir="up" xml:id="457"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="871"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1421" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="d" stem.dir="up" xml:id="857"/>
+<note dur="8" oct="5" pname="a" stem.dir="up" xml:id="497"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="918"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="344"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1431" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="s" dur="8" oct="5" pname="g" stem.dir="up" xml:id="383"/>
+<note dur="2" oct="4" pname="c" stem.dir="up" xml:id="931"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="151"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1441" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="c" stem.dir="up" xml:id="75"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="333"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="888"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="966"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="469"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1451" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="e" stem.dir="up" xml:id="399"/>
+<note dur="2" oct="3" pname="c" stem.dir="up" xml:id="873"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1461" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="e" stem.dir="up" xml:id="384"/>
+<note dur="8" oct="4" pname="g" stem.dir="up" xml:id="392"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="693"/>
+<note dur="8" oct="5" pname="a" stem.dir="up" xml:id="294"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="209"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="265"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="139"/>
+<note dur="8" oct="4" pname="a" stem.dir="up" xml:id="759"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1471" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="e" stem.dir="up" xml:id="786"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="784"/>
+<note dur="4" oct="5" pname="g" stem.dir="up" xml:id="855"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="155"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="61"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1481" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="c" stem.dir="up" xml:id="599"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="586"/>
+<note dur="8" oct="5" pname="d" stem.dir="up" xml:id="51"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="574"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1491" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="f" dur="16" oct="4" pname="c" stem.dir="up" xml:id="367"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="419"/>
+<note dur="2" oct="4" pname="e" stem.dir="up" xml:id="810"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="533"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1501" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="c" stem.dir="up" xml:id="242"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="322"/>
+<note dur="8" oct="4" pname="g" stem.dir="up" xml:id="349"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="751"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1511" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="c" stem.dir="up" xml:id="478"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="78"/>
+<note dur="4" oct="3" pname="d" stem.dir="up" xml:id="499"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="542"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="429"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1521" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="a" stem.dir="up" xml:id="592"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="829"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="450"/>
+<note accid="f" dur="4" oct="3" pname="g" stem.dir="up" xml:id="232"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="653"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1531" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="d" stem.dir="up" xml:id="888"/>
+<note accid="s" dur="16" oct="3" pname="g" stem.dir="up" xml:id="54"/>
+<note dur="4" oct="3" pname="e" stem.dir="up" xml:id="631"/>
+<note accid="n" dur="4" oct="3" pname="f" stem.dir="up" xml:id="328"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="426"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1541" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="a" stem.dir="up" xml:id="742"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="792"/>
+<note accid="f" dur="4" oct="5" pname="e" stem.dir="up" xml:id="629"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="325"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="139"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1551" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="s" dur="2" oct="4" pname="f" stem.dir="up" xml:id="187"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="428"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1561" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="d" stem.dir="up" xml:id="345"/>
+<note dur="4" oct="5" pname="g" stem.dir="up" xml:id="446"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="234"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="783"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="493"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1571" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="d" stem.dir="up" xml:id="330"/>
+<note dur="4" oct="5" pname="f" stem.dir="up" xml:id="590"/>
+<note dur="4" oct="4" pname="g" stem.dir="up" xml:id="265"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="564"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="111"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1581" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="g" stem.dir="up" xml:id="760"/>
+<note dur="2" oct="3" pname="f" stem.dir="up" xml:id="103"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1591" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="g" stem.dir="up" xml:id="564"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="195"/>
+<note dur="2" oct="4" pname="c" stem.dir="up" xml:id="485"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="801"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1601" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="e" stem.dir="up" xml:id="325"/>
+<note dur="4" oct="3" pname="g" stem.dir="up" xml:id="256"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="838"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="456"/>
+<note dur="16" oct="3" pname="e" stem.dir="up" xml:id="736"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="698"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="341"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="800"/>
+<note accid="s" dur="16" oct="4" pname="g" stem.dir="up" xml:id="850"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1611" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="f" stem.dir="up" xml:id="403"/>
+<note accid="n" dur="2" oct="5" pname="c" stem.dir="up" xml:id="212"/>
+<note dur="16" oct="3" pname="e" stem.dir="up" xml:id="310"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="355"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1621" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="a" stem.dir="up" xml:id="651"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="996"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="404"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="303"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1631" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="g" stem.dir="up" xml:id="514"/>
+<note dur="8" oct="4" pname="a" stem.dir="up" xml:id="658"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="189"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1641" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="a" stem.dir="up" xml:id="925"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="65"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="492"/>
+<note dur="4" oct="3" pname="g" stem.dir="up" xml:id="408"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="47"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1651" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="g" stem.dir="up" xml:id="640"/>
+<note dur="2" oct="5" pname="c" stem.dir="up" xml:id="654"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="198"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="208"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="499"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1661" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="a" stem.dir="up" xml:id="451"/>
+<note dur="4" oct="4" pname="a" stem.dir="up" xml:id="632"/>
+<note accid="s" dur="16" oct="4" pname="g" stem.dir="up" xml:id="446"/>
+<note dur="4" oct="3" pname="a" stem.dir="up" xml:id="26"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="44"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1671" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="8" oct="5" pname="d" stem.dir="up" xml:id="64"/>
+<note dur="8" oct="3" pname="a" stem.dir="up" xml:id="964"/>
+<note accid="s" dur="8" oct="5" pname="a" stem.dir="up" xml:id="702"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="547"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="760"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="359"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="969"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1681" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="c" stem.dir="up" xml:id="239"/>
+<note dur="4" oct="4" pname="c" stem.dir="up" xml:id="220"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1691" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="d" stem.dir="up" xml:id="693"/>
+<note dur="2" oct="5" pname="e" stem.dir="up" xml:id="693"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="927"/>
+<note dur="16" oct="5" pname="g" stem.dir="up" xml:id="493"/>
+<note dur="16" oct="5" pname="g" stem.dir="up" xml:id="385"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1701" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="f" stem.dir="up" xml:id="142"/>
+<note dur="4" oct="3" pname="a" stem.dir="up" xml:id="779"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1711" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="c" stem.dir="up" xml:id="213"/>
+<note dur="2" oct="3" pname="c" stem.dir="up" xml:id="378"/>
+<note accid="s" dur="8" oct="5" pname="g" stem.dir="up" xml:id="321"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="729"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1721" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="a" stem.dir="up" xml:id="271"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="248"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="709"/>
+<note dur="4" oct="5" pname="d" stem.dir="up" xml:id="482"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1731" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="f" stem.dir="up" xml:id="198"/>
+<note dur="4" oct="3" pname="f" stem.dir="up" xml:id="177"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1741" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="2" oct="4" pname="f" stem.dir="up" xml:id="698"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="129"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="215"/>
+<note accid="f" dur="16" oct="5" pname="g" stem.dir="up" xml:id="845"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1751" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="c" stem.dir="up" xml:id="931"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="263"/>
+<note dur="8" oct="5" pname="g" stem.dir="up" xml:id="749"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="378"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="933"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="805"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="566"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="943"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1761" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="d" stem.dir="up" xml:id="777"/>
+<note dur="4" oct="3" pname="a" stem.dir="up" xml:id="176"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1771" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="d" stem.dir="up" xml:id="480"/>
+<note accid="n" dur="4" oct="5" pname="e" stem.dir="up" xml:id="426"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1781" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="c" stem.dir="up" xml:id="895"/>
+<note dur="4" oct="3" pname="e" stem.dir="up" xml:id="315"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1791" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="g" stem.dir="up" xml:id="911"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="283"/>
+<note dur="8" oct="5" pname="g" stem.dir="up" xml:id="986"/>
+<note dur="4" oct="3" pname="a" stem.dir="up" xml:id="502"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="271"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="45"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="357"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1801" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="a" stem.dir="up" xml:id="982"/>
+<note accid="f" dur="16" oct="3" pname="c" stem.dir="up" xml:id="252"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="539"/>
+<note dur="16" oct="3" pname="e" stem.dir="up" xml:id="170"/>
+<note dur="8" oct="5" pname="g" stem.dir="up" xml:id="432"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="69"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="25"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1811" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="c" stem.dir="up" xml:id="702"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="145"/>
+<note dur="4" oct="5" pname="g" stem.dir="up" xml:id="907"/>
+<note dur="8" oct="5" pname="d" stem.dir="up" xml:id="62"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="825"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1821" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="c" stem.dir="up" xml:id="0"/>
+<note dur="8" oct="5" pname="f" stem.dir="up" xml:id="481"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="273"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="349"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1831" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="f" stem.dir="up" xml:id="199"/>
+<note accid="s" dur="2" oct="5" pname="d" stem.dir="up" xml:id="92"/>
+<note dur="8" oct="5" pname="a" stem.dir="up" xml:id="862"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1841" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="c" stem.dir="up" xml:id="671"/>
+<note dur="2" oct="5" pname="c" stem.dir="up" xml:id="941"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1851" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="e" stem.dir="up" xml:id="264"/>
+<note dur="4" oct="5" pname="g" stem.dir="up" xml:id="243"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="626"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="697"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="942"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="291"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="423"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1861" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="4" pname="c" stem.dir="up" xml:id="663"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="374"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="984"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="760"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="953"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1871" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="e" stem.dir="up" xml:id="104"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="92"/>
+<note dur="2" oct="3" pname="c" stem.dir="up" xml:id="180"/>
+<note dur="8" oct="4" pname="a" stem.dir="up" xml:id="561"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1881" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="c" stem.dir="up" xml:id="791"/>
+<note dur="4" oct="3" pname="g" stem.dir="up" xml:id="225"/>
+<note dur="8" oct="5" pname="e" stem.dir="up" xml:id="712"/>
+<note dur="4" oct="4" pname="c" stem.dir="up" xml:id="86"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="169"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1891" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="4" pname="e" stem.dir="up" xml:id="6"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="329"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="970"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="278"/>
+<note accid="f" dur="8" oct="4" pname="c" stem.dir="up" xml:id="254"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="835"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1901" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="d" stem.dir="up" xml:id="378"/>
+<note dur="2" oct="5" pname="c" stem.dir="up" xml:id="527"/>
+<note dur="8" oct="4" pname="g" stem.dir="up" xml:id="566"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1911" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="f" stem.dir="up" xml:id="345"/>
+<note dur="4" oct="3" pname="g" stem.dir="up" xml:id="941"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1921" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="c" stem.dir="up" xml:id="616"/>
+<note dur="16" oct="3" pname="e" stem.dir="up" xml:id="581"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="756"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="812"/>
+<note dur="8" oct="3" pname="d" stem.dir="up" xml:id="733"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1931" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="4" oct="4" pname="c" stem.dir="up" xml:id="595"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="738"/>
+<note accid="s" dur="16" oct="4" pname="c" stem.dir="up" xml:id="998"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="644"/>
+<note dur="4" oct="4" pname="d" stem.dir="up" xml:id="291"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="130"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1941" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="3" pname="a" stem.dir="up" xml:id="277"/>
+<note dur="4" oct="5" pname="a" stem.dir="up" xml:id="320"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1951" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="e" stem.dir="up" xml:id="691"/>
+<note accid="s" dur="8" oct="3" pname="a" stem.dir="up" xml:id="112"/>
+<note accid="s" dur="8" oct="3" pname="f" stem.dir="up" xml:id="982"/>
+<note dur="4" oct="4" pname="e" stem.dir="up" xml:id="16"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1961" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="3" pname="c" stem.dir="up" xml:id="216"/>
+<note accid="f" dur="16" oct="5" pname="f" stem.dir="up" xml:id="357"/>
+<note dur="4" oct="5" pname="d" stem.dir="up" xml:id="808"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="917"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="656"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="304"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1971" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="4" oct="5" pname="g" stem.dir="up" xml:id="987"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="800"/>
+<note dur="8" oct="3" pname="e" stem.dir="up" xml:id="679"/>
+<note dur="16" oct="4" pname="a" stem.dir="up" xml:id="508"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="293"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="368"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="679"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1981" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="c" stem.dir="up" xml:id="783"/>
+<note dur="2" oct="3" pname="e" stem.dir="up" xml:id="549"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="203"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="373"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="1991" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="16" oct="5" pname="a" stem.dir="up" xml:id="321"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="430"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="746"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="602"/>
+<note dur="4" oct="3" pname="e" stem.dir="up" xml:id="810"/>
+<note accid="n" dur="16" oct="4" pname="d" stem.dir="up" xml:id="59"/>
+<note dur="16" oct="5" pname="e" stem.dir="up" xml:id="938"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2001" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="2" oct="5" pname="g" stem.dir="up" xml:id="629"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="583"/>
+<note dur="8" oct="5" pname="a" stem.dir="up" xml:id="716"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="131"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2011" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="d" stem.dir="up" xml:id="476"/>
+<note dur="4" oct="3" pname="a" stem.dir="up" xml:id="379"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="47"/>
+<note dur="4" oct="3" pname="e" stem.dir="up" xml:id="188"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="364"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2021" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="n" dur="8" oct="5" pname="c" stem.dir="up" xml:id="741"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="917"/>
+<note dur="2" oct="3" pname="f" stem.dir="up" xml:id="721"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="342"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2031" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="c" stem.dir="up" xml:id="527"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="405"/>
+<note dur="4" oct="4" pname="e" stem.dir="up" xml:id="86"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="407"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="189"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2041" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="g" stem.dir="up" xml:id="729"/>
+<note dur="8" oct="3" pname="e" stem.dir="up" xml:id="529"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="64"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="869"/>
+<note dur="4" oct="5" pname="c" stem.dir="up" xml:id="730"/>
+<note dur="16" oct="4" pname="g" stem.dir="up" xml:id="281"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="240"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2051" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="4" pname="a" stem.dir="up" xml:id="563"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="543"/>
+<note dur="8" oct="5" pname="a" stem.dir="up" xml:id="564"/>
+<note dur="8" oct="4" pname="a" stem.dir="up" xml:id="685"/>
+<note dur="8" oct="4" pname="a" stem.dir="up" xml:id="849"/>
+<note dur="16" oct="3" pname="g" stem.dir="up" xml:id="552"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="690"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="201"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2061" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="e" stem.dir="up" xml:id="817"/>
+<note accid="s" dur="16" oct="3" pname="g" stem.dir="up" xml:id="413"/>
+<note accid="s" dur="4" oct="5" pname="g" stem.dir="up" xml:id="646"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="833"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="157"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="399"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2071" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="c" stem.dir="up" xml:id="118"/>
+<note dur="4" oct="3" pname="d" stem.dir="up" xml:id="249"/>
+<note dur="8" oct="3" pname="g" stem.dir="up" xml:id="900"/>
+<note dur="4" oct="5" pname="a" stem.dir="up" xml:id="758"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2081" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="3" pname="d" stem.dir="up" xml:id="560"/>
+<note accid="f" dur="2" oct="3" pname="e" stem.dir="up" xml:id="117"/>
+<note dur="16" oct="5" pname="f" stem.dir="up" xml:id="112"/>
+<note accid="f" dur="8" oct="4" pname="f" stem.dir="up" xml:id="67"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2091" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="d" stem.dir="up" xml:id="831"/>
+<note accid="n" dur="2" oct="3" pname="f" stem.dir="up" xml:id="772"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="373"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2101" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="g" stem.dir="up" xml:id="543"/>
+<note dur="8" oct="4" pname="g" stem.dir="up" xml:id="810"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="607"/>
+<note dur="4" oct="3" pname="g" stem.dir="up" xml:id="114"/>
+<note dur="16" oct="4" pname="c" stem.dir="up" xml:id="251"/>
+<note dur="16" oct="4" pname="f" stem.dir="up" xml:id="816"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="517"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2111" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="e" stem.dir="up" xml:id="737"/>
+<note dur="8" oct="4" pname="d" stem.dir="up" xml:id="144"/>
+<note dur="8" oct="4" pname="f" stem.dir="up" xml:id="107"/>
+<note accid="s" dur="8" oct="5" pname="a" stem.dir="up" xml:id="685"/>
+<note dur="16" oct="4" pname="e" stem.dir="up" xml:id="418"/>
+<note dur="4" oct="3" pname="d" stem.dir="up" xml:id="743"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2121" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="16" oct="5" pname="c" stem.dir="up" xml:id="872"/>
+<note dur="4" oct="4" pname="a" stem.dir="up" xml:id="826"/>
+<note dur="8" oct="4" pname="c" stem.dir="up" xml:id="43"/>
+<note dur="4" oct="3" pname="c" stem.dir="up" xml:id="67"/>
+<note dur="16" oct="3" pname="d" stem.dir="up" xml:id="260"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2131" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note accid="f" dur="8" oct="3" pname="e" stem.dir="up" xml:id="605"/>
+<note dur="8" oct="5" pname="d" stem.dir="up" xml:id="249"/>
+<note dur="16" oct="5" pname="a" stem.dir="up" xml:id="746"/>
+<note accid="f" dur="16" oct="5" pname="g" stem.dir="up" xml:id="663"/>
+<note dur="4" oct="4" pname="a" stem.dir="up" xml:id="189"/>
+<note dur="16" oct="5" pname="c" stem.dir="up" xml:id="831"/>
+<note dur="16" oct="3" pname="f" stem.dir="up" xml:id="324"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2141" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="4" pname="g" stem.dir="up" xml:id="669"/>
+<note dur="2" oct="5" pname="a" stem.dir="up" xml:id="286"/>
+<note dur="8" oct="4" pname="g" stem.dir="up" xml:id="808"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2151" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="c" stem.dir="up" xml:id="40"/>
+<note dur="2" oct="4" pname="a" stem.dir="up" xml:id="896"/>
+<note dur="16" oct="3" pname="a" stem.dir="up" xml:id="258"/>
+<note dur="16" oct="4" pname="d" stem.dir="up" xml:id="856"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2161" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="5" pname="c" stem.dir="up" xml:id="882"/>
+<note dur="4" oct="3" pname="g" stem.dir="up" xml:id="307"/>
+<note dur="8" oct="5" pname="c" stem.dir="up" xml:id="808"/>
+<note dur="8" oct="3" pname="f" stem.dir="up" xml:id="831"/>
+<note dur="16" oct="5" pname="d" stem.dir="up" xml:id="812"/>
+<note dur="16" oct="3" pname="c" stem.dir="up" xml:id="334"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+
+                       <measure n="2171" right="dbl" xml:id="1">
+                             <staff n="1" xml:id="1">
+                                    <layer n="1" xml:id="1">
+                                        <note dur="8" oct="3" pname="d" stem.dir="up" xml:id="831"/>
+<note dur="2" oct="3" pname="g" stem.dir="up" xml:id="264"/>
+<note dur="8" oct="3" pname="c" stem.dir="up" xml:id="947"/>
+                                                                </layer>
+                               </staff>
+                           </measure>
+                    </section>
+                </score>
+            </mdiv>
+        </body>
+    </music>
+</mei>
